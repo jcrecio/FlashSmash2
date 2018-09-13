@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashSmash2", "FlashSmash2\FlashSmash2\FlashSmash2.csproj", "{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashSmash2Content", "FlashSmash2\FlashSmash2Content\FlashSmash2Content.contentproj", "{08D99558-305F-4932-B46B-95244FD31AA4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jcrecio.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FlashSmash2\\FlashSmash2\\FlashSmash2.csproj
+		SccProjectName1 = FlashSmash2/FlashSmash2
+		SccLocalPath1 = FlashSmash2\\FlashSmash2
+		SccProjectUniqueName2 = FlashSmash2\\FlashSmash2Content\\FlashSmash2Content.contentproj
+		SccProjectName2 = FlashSmash2/FlashSmash2Content
+		SccLocalPath2 = FlashSmash2\\FlashSmash2Content
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{C35E55E7-3A8B-4C98-9295-A3FEA2C3DA65}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{08D99558-305F-4932-B46B-95244FD31AA4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{08D99558-305F-4932-B46B-95244FD31AA4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
